@@ -124,7 +124,11 @@ body {
 }
 
 .apresentacao__imagens {
-    width: 50%
+    width: 50%;
+}
+
+.apresentacao__imagens1"{
+    width:100%;
 }
 
 .rodape {
