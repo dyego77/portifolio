@@ -138,18 +138,7 @@ body {
 }
 
 @media (max-width: 1200px) {
-    
-    :root {
-        --cor-primaria: #272829;
-        --cor-secundaria: #61677A;
-        --cor-terciaria: #D8D9DA;
-        --cor-hover: #FFF6E0;
-        --cor-hover1: #FFF6E0; 
-    
-        --fonte-primaria: 'Krona one', sans-serif;
-        --fonte-secundaria: 'Montserrat', sans-serif;
-    
-    }    
+        
 
     .cabecalho{
         padding: 10%;        
@@ -157,8 +146,7 @@ body {
 
     .cabecalho__menu{
         justify-content: center;
-        padding: 1% 0% 1% 0%;
-        background-color: #D8D9DA;      
+        padding: 1% 0% 1% 0%;      
     }
 
     .apresentacao{
